@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basebin/bible/main/.github/assets/thumbnail.png" alt="bible" width="100%">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/bible/main/.github/assets/thumbnail.png" alt="bible" width="100%">
 </p>
 
 # holy-bible
